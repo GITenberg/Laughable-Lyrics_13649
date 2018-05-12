@@ -1,0 +1,31 @@
+_repo: Laughable-Lyrics_13649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lear, Edward
+    alias: Derry Down Derry
+    birthdate: 1812
+    deathdate: 1888
+    gutenberg_agent_id: '498'
+    url: http://www.gutenberg.org/2009/agents/498
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Lear
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Nonsense verses, English'
+- !lcsh 'Humorous poetry, English'
+- !lcc 'PR'
+title: Laughable Lyrics
+url: http://www.gutenberg.org/ebooks/13649
